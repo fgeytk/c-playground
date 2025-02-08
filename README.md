@@ -9,6 +9,10 @@ Un programme en C utilisant la bibliothèque XInput pour détecter et afficher l
 
 ## 🚀 Installation & Compilation
 
+
+Veillez à avoir installé Windows SDK https://developer.microsoft.com/fr-fr/windows/downloads/windows-sdk/
+
+
 ```sh
 git clone https://github.com/TonPseudo/projet-xinput-manette.git
 cd projet-xinput-manette
