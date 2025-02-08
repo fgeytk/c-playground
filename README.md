@@ -9,8 +9,9 @@ Un programme en C utilisant la bibliothèque XInput pour détecter et afficher l
 
 ## 🚀 Installation & Compilation
 
-git clone https://github.com/fgeytk/xinput_input_viewer.git
-cd xinput_input_viewer
+```sh
+git clone https://github.com/TonPseudo/projet-xinput-manette.git
+cd projet-xinput-manette
 mkdir build && cd build
 cmake ..
 cmake --build .
